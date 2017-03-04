@@ -1,4 +1,8 @@
-<<<<<<< HEAD
+# RoboDex
+A react tutorial app
+
+
+=================================================================================================================================================
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -1356,6 +1360,3 @@ Please refer to [this section](#resolving-module-not-found-error-cannot-resolve-
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
 =======
-# RoboDex
-A react tutorial app
->>>>>>> e0f6df7c9ee18e2798208fd3eefe05b901fde027
